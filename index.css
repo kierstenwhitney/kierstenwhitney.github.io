@@ -13,7 +13,8 @@ there are definitely some properties you should add!*/
        padding-bottom: 10px;
        font-style: normal;
        font-family: 'cinzel', serif;
-       color: #fff
+       color: #fff;
+       background-image: url("./foodtruck_dribble.gif");
     }
     header {
         background-color:#000000;
